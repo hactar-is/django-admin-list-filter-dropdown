@@ -26,6 +26,7 @@ setup(
     author='Mart Sõmermaa',
     author_email="mrts.pydev at gmail dot com",
     keywords=['django', 'admin', 'filter', 'dropdown'],
+    install_requires=[],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
